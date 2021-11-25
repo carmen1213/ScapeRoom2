@@ -4,6 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Carmen/AndroidStudioProjects/ScapeRoom2/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout-land/activity_question1.xml" value="0.264" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout/activity_main2.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout/activity_prueba1.xml" value="0.264" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout/activity_prueba_productos.xml" value="0.152" />
+        <entry key="..\:/Users/Sergio/Documents/AndroidStudio/ScapeRoom/app/src/main/res/layout/activity_question1.xml" value="0.264" />
       </map>
     </option>
   </component>
@@ -12,5 +20,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
   </component>
 </project>
